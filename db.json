@@ -1,1 +1,18 @@
 
+{
+  app_id: 'solaris_go4green_hack',
+  dev_id: 'device_solaris_go4green_hack',
+  hardware_serial: '0102030405060708',
+  port: 1,
+  counter: 6715,
+  payload_raw: <Buffer 48 49>,
+  payload_fields: { receivedString: 'HI' },
+  metadata: {
+    time: '2019-12-09T10:56:15.558740674Z',
+    frequency: 868.1,
+    modulation: 'LORA',
+    data_rate: 'SF7BW125',
+    airtime: 46336000,
+    coding_rate: '4/5',
+    gateways: [ [Object], [Object] ]
+  }
