@@ -1,5 +1,25 @@
 {
   "profile": {
     "name": "solarisplusplus"
-  }
+  },
+  
+  "posts": [
+    {
+      app_id: 'solaris_go4green_hack',
+      dev_id: 'device_solaris_go4green_hack',
+      hardware_serial: '0102030405060708',
+      port: 1,
+      counter: 6740,
+      payload_raw: <Buffer 48 49>,
+      payload_fields: { receivedString: 'HI' },
+      metadata: {
+       time: '2019-12-09T11:22:20.375685634Z',
+       frequency: 868.1,
+       modulation: 'LORA',
+       data_rate: 'SF7BW125',
+       airtime: 46336000,
+       coding_rate: '4/5',
+       gateways: [ [Object] ]
+    }
+  ],
 }
